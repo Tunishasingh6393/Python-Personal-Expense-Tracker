@@ -1,0 +1,6 @@
+{
+  "name": "Personal Expense Tracker with AI Insights",
+  "description": "A comprehensive personal finance dashboard with CSV ingestion, AI categorization, and interactive data visualization built for portfolio demonstration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Data Analysis", "AI Categorization", "Interactive Visualization"]
+}
